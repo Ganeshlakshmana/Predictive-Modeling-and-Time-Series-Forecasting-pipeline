@@ -1,0 +1,51 @@
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS-generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor settings
+# =========================
+.idea/
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# ML model artifacts
+# =========================
+*.pkl
+*.joblib
+
+# =========================
+# Environment variables
+# =========================
+.env
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
